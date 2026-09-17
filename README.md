@@ -1,1 +1,3 @@
-# somyungpark.github.io
+# research interest
+# Education
+# publication
