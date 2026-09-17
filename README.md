@@ -5,18 +5,19 @@ I am currently Master student in Department of Computer Science, Yonsei Universi
 
 ## Research interest
 
-GPU-PIM heterogenous 
+- GPU-PIM heterogeneous system
 
 ## Education
 
 - Yonsei University, Seoul, South Korea
   - MS in Computer Science
   - Set.2026 ~ Present
+    
 - Yonsei University, Seoul, South Korea      
   - BSc in philosophy
   - BSc in Electrical and Electronic Engineering 
   - Mar.2022 ~ Aug.2026
     
-## publication
+## Publication
 
 To be updated
