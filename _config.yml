@@ -1,5 +1,6 @@
 title: Somyung Park
-logo: /image.jpg
-description: somyung.p@yonsei.ac.kr
+logo: /assets/img/image.jpg
+description: >
+ Email: somyung.p@yonsei.ac.kr
 show_downloads: false
 theme: jekyll-theme-minimal
