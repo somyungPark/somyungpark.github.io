@@ -1,8 +1,6 @@
 @import "{{ site.theme }}";
 
 header img {
-  width: 70px;
-  height: 70px;
-  object-fit: cover;
-  border-radius: 50%;
+  width: 5px !important;
+  height: auto !important;
 }
