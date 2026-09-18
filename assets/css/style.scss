@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 header > img[alt="Logo"] {
-  width: 30px !important;
-  max-width: 30px !important;
-  height: auto !important;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+  border-radius: 50%;
 }
