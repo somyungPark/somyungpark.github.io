@@ -4,7 +4,10 @@
 @import "{{ site.theme }}";
 
 header > img[alt="Logo"] {
-  width: 150px;
-  height: 150px;
+  width: 120px;
+  max-width: 120px;
+  height: auto;
+  display: block;
+  margin: 0 auto 20px;
 
 }
