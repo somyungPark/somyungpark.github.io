@@ -1,7 +1,7 @@
 
 # Hi, I'm Somyung Park.
 
-I am currently an MSc student in the Department of Computer Science, Yonsei University and a member of the <a href="https://yonsei-hpcp.github.io/index">HPCP Lab</a>, advised by Prof. <a href="https://youngsok.github.io/">Youngsok Kim</a>.
+I am currently an MSc student in the Department of Computer Science, Yonsei University and a member of the <a href="https://yonsei-hpcp.github.io/index">HPCP Lab</a>, advised by <a href="https://youngsok.github.io/">Prof.Youngsok Kim</a>.
 
 
 
